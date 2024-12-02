@@ -1,4 +1,4 @@
-mod day01;
+pub mod day01;
 mod utils;
 
 fn main() {}
