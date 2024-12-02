@@ -1,3 +1,4 @@
-fn main() {
-    println!("Hello, world!");
-}
+mod day01;
+mod utils;
+
+fn main() {}
